@@ -5,6 +5,15 @@ body {
     margin: auto;
     text-align: center;
 }
+
+.yellow {
+    color: yellow;
+}
+
+.yellow:hover {
+    color: #9A9B9C;
+}
+
 .yellowbtn {
     cursor: pointer;
     border-radius: 10px;

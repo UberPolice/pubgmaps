@@ -11,6 +11,14 @@ img {
     border-radius: 10px;
 }
 
+.yellow {
+    color: yellow;
+}
+
+.yellow:hover {
+    color: #9A9B9C;
+}
+
 .yellowbtn {
     cursor: pointer;
     border-radius: 10px;
