@@ -1,7 +1,7 @@
 body {
     color: yellow;
-    background-image: url('bg.png');
-    background-size: cover;
+    background-image: url('bg.jpg');
+    background-size: 100%;
     margin: auto;
     text-align: center;
 }
